@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "predictAge", "predictAge\predictAge.csproj", "{B0290A32-6525-4AC5-A446-40FE5B111F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0290A32-6525-4AC5-A446-40FE5B111F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0290A32-6525-4AC5-A446-40FE5B111F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0290A32-6525-4AC5-A446-40FE5B111F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0290A32-6525-4AC5-A446-40FE5B111F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1951DEB-5813-4A98-879F-8A2161C0CDFD}
+	EndGlobalSection
+EndGlobal
