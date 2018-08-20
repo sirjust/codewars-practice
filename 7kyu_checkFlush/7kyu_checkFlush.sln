@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7kyu_checkFlush", "7kyu_checkFlush\7kyu_checkFlush.csproj", "{1BD5463A-1B4F-4D68-9706-242B3ADB075E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BD5463A-1B4F-4D68-9706-242B3ADB075E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD5463A-1B4F-4D68-9706-242B3ADB075E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD5463A-1B4F-4D68-9706-242B3ADB075E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD5463A-1B4F-4D68-9706-242B3ADB075E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {688103C1-5CC8-4B13-82CA-8F0D21B2C493}
+	EndGlobalSection
+EndGlobal
