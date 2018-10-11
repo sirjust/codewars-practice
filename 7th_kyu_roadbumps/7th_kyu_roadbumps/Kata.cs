@@ -8,7 +8,7 @@ namespace _7th_kyu_roadbumps
 {
     class Kata
     {
-        public string Bump(string input)
+        public static string Bump(string input)
         {
             char[] myArray = input.ToCharArray();
             int counter = 0;

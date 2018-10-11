@@ -6,10 +6,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D693C08D-8202-45DC-91E6-98666CCAFCC7}</ProjectGuid>
+    <ProjectGuid>{98B2882B-F5BE-4FD3-8740-F1C5B7684380}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_7th_kyu_roadbumps</RootNamespace>
-    <AssemblyName>7th_kyu_roadbumps</AssemblyName>
+    <RootNamespace>_6kyu_wordspin</RootNamespace>
+    <AssemblyName>6kyu_wordspin</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
