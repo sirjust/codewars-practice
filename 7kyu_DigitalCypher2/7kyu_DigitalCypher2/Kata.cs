@@ -25,17 +25,18 @@ namespace _7kyu_DigitalCypher2
 
             // convert the key to an array of integers for easy adding
             int[] keyArray = key.ToString().Select(o => Convert.ToInt32(o) -48).ToArray();
-
+            int j = 0;
             // iterate through the decoded numbers and subtract the values
             for(int i = 0; i<code.Length; i++)
             {
-                for(int j = 0; j < code.Length; j++)
+                while(j < code.Length)
                 {
                     // we need to loop back to the beginning of the key until code is exhausted
                     code[i] = code[i] - keyArray[j];
-                    if (j == keyArray.Length - 1)
+                    j++;
+                    if (j == keyArray.Length)
                     {
-                        j = -1;
+                        j = 0;
                     }
                     break;
                 }
