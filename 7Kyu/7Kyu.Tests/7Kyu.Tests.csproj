@@ -56,6 +56,7 @@
   <ItemGroup>
     <Compile Include="AverageArrayTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StrayTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -64,6 +65,10 @@
     <ProjectReference Include="..\AverageArray\AverageArray.csproj">
       <Project>{dd39bd56-a4dd-440c-a083-46da5c3c6b0a}</Project>
       <Name>AverageArray</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Stray\Stray.csproj">
+      <Project>{04a3a7ec-de48-402d-a0f0-b42406dde575}</Project>
+      <Name>Stray</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

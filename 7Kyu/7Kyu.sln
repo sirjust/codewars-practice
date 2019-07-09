@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageArray", "AverageArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7Kyu.Tests", "7Kyu.Tests\7Kyu.Tests.csproj", "{02D24F9E-635F-48D5-98D5-447BD3B519B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stray", "Stray\Stray.csproj", "{04A3A7EC-DE48-402D-A0F0-B42406DDE575}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{02D24F9E-635F-48D5-98D5-447BD3B519B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02D24F9E-635F-48D5-98D5-447BD3B519B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02D24F9E-635F-48D5-98D5-447BD3B519B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A3A7EC-DE48-402D-A0F0-B42406DDE575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A3A7EC-DE48-402D-A0F0-B42406DDE575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A3A7EC-DE48-402D-A0F0-B42406DDE575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A3A7EC-DE48-402D-A0F0-B42406DDE575}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
