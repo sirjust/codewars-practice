@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7Kyu.Tests", "7Kyu.Tests\7K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stray", "Stray\Stray.csproj", "{04A3A7EC-DE48-402D-A0F0-B42406DDE575}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabetSymmetry", "AlphabetSymmetry\AlphabetSymmetry.csproj", "{D0B07352-466C-428B-9B18-60D2046916D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{04A3A7EC-DE48-402D-A0F0-B42406DDE575}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04A3A7EC-DE48-402D-A0F0-B42406DDE575}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04A3A7EC-DE48-402D-A0F0-B42406DDE575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B07352-466C-428B-9B18-60D2046916D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B07352-466C-428B-9B18-60D2046916D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B07352-466C-428B-9B18-60D2046916D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B07352-466C-428B-9B18-60D2046916D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

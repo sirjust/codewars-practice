@@ -54,6 +54,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlphabetSymmetryTests.cs" />
     <Compile Include="AverageArrayTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StrayTests.cs" />
@@ -62,6 +63,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AlphabetSymmetry\AlphabetSymmetry.csproj">
+      <Project>{d0b07352-466c-428b-9b18-60d2046916d3}</Project>
+      <Name>AlphabetSymmetry</Name>
+    </ProjectReference>
     <ProjectReference Include="..\AverageArray\AverageArray.csproj">
       <Project>{dd39bd56-a4dd-440c-a083-46da5c3c6b0a}</Project>
       <Name>AverageArray</Name>
