@@ -54,6 +54,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FindOccurrences.Tests.cs" />
     <Compile Include="AlphabetSymmetryTests.cs" />
     <Compile Include="AverageArrayTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -70,6 +71,10 @@
     <ProjectReference Include="..\AverageArray\AverageArray.csproj">
       <Project>{dd39bd56-a4dd-440c-a083-46da5c3c6b0a}</Project>
       <Name>AverageArray</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FindOccurrences\FindOccurrences.csproj">
+      <Project>{91b288dc-d856-42ca-93a5-58a66c8b1fe6}</Project>
+      <Name>FindOccurrences</Name>
     </ProjectReference>
     <ProjectReference Include="..\Stray\Stray.csproj">
       <Project>{04a3a7ec-de48-402d-a0f0-b42406dde575}</Project>
