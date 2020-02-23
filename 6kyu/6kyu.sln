@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6kyuTests", "6kyuTests\6kyu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoundByHalf", "RoundByHalf\RoundByHalf.csproj", "{820A6759-6C32-4370-9FED-E142285452DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smile67Kata", "Smile67Kata\Smile67Kata.csproj", "{D6449343-EC0D-4058-8DA2-A4D0C769FF55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{820A6759-6C32-4370-9FED-E142285452DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{820A6759-6C32-4370-9FED-E142285452DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{820A6759-6C32-4370-9FED-E142285452DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6449343-EC0D-4058-8DA2-A4D0C769FF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6449343-EC0D-4058-8DA2-A4D0C769FF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6449343-EC0D-4058-8DA2-A4D0C769FF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6449343-EC0D-4058-8DA2-A4D0C769FF55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
