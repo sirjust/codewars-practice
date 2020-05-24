@@ -36,7 +36,7 @@ namespace Car
 
         bool IsOnReserve { get; }
 
-        bool IsComplete { get; }
+        bool IsComplete { get; set; }
 
         void Consume(double liters);
 
@@ -45,10 +45,10 @@ namespace Car
 
     public interface IFuelTankDisplay
     {
-        double FillLevel { get; }
+        double FillLevel { get; set; }
 
-        bool IsOnReserve { get; }
+        bool IsOnReserve { get; set; }
 
-        bool IsComplete { get; }
+        bool IsComplete { get; set; }
     }
 }
